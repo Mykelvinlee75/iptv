@@ -1,0 +1,40 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/ATV_A1_logo.jpg/300px-ATV_A1_logo.jpg" group-title="General",A1台
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Music",Channel [V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK;TW" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News;Undefined",FTV News,民视新聞
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Sport",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e1/SETN_logo.png/220px-SETN_logo.png" group-title="Undefined",三立新聞
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/1wbOhJV.jpg" group-title="Travel",亞旅衛視
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="News;Undefined",凤凰资讯HD,鳳凰衛視資訊台HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="http://wxtv.asia/web/images/all/logoSm.jpg" group-title="Undefined",唯心頻道
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN;HK" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="Undefined",新唐人亚太,新唐人亚太臺
+https://live.ntdimg.com/aplive200/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="General",星空衛視
+rtmp://58.200.131.2:1935/livetv/startv?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a8/I-Cable_Family_Ent.jpg" group-title="Undefined",有線綜合娛樂台
+https://ottproxy2.mott.tv/livehls/MOB-CN/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" group-title="Undefined",有線財經資訊台
+https://ottproxy2.mott.tv/livehls/MOB-NGW/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" group-title="Undefined",有線財經資訊台
+https://ottproxy2.mott.tv/livehls/MOB-NGW/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="News",港台電視32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png" group-title="Undefined",澳视葡文
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN;HK" tvg-logo="https://i.imgur.com/wnQPn2d.jpg" group-title="Undefined",香港卫视,香港衛視
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="General;Undefined",香港开电视 / HKSTV-HKS,香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",香港开电视 / HKSTV-HKS
+http://media.fantv.hk/m3u8/archive/channel2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="Undefined",鳳凰衛視電影台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy?checkedby:iptvcat.com
